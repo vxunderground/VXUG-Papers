@@ -71,7 +71,7 @@ WHY SYSTEM32:
 		Experimenting. You cannot write to files in System32 if you're running at medium integrity/non admin.
 		I was curious if I could mitigate this. I could not. Feel free to use any directory. It does not matter.
 
-
+-smelly
 */
 
 
