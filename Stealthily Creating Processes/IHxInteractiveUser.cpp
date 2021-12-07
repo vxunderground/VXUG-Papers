@@ -33,7 +33,7 @@ HRESULT CoInitializeIHxInteractiveUserIds(LPGUID Clsid, LPGUID Iid)
 
 INT main(VOID)
 {
-	HRESULT Result = S_OK;
+    HRESULT Result = S_OK;
     GUID CLSID_IHxInteractiveUser;
     GUID IID_IHxInteractiveUser;
     WCHAR pcUrl[256] = L"file:///C:/WINDOWS/SYSTEM32/CMD.EXE";
