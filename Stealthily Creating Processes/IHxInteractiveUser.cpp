@@ -55,5 +55,5 @@ INT main(VOID)
 
     CoUninitialize();
 
-	return Win32FromHResult(Result);
+    return Win32FromHResult(Result);
 }
